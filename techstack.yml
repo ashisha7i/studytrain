@@ -1,0 +1,18 @@
+repo_name: ashisha7i/studytrain
+report_id: bb0da6fe61ae7e16e06def3531576504
+repo_type: Public
+timestamp: '2023-11-09T17:58:35+00:00'
+requested_by: ashisha7i
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
